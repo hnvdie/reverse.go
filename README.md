@@ -1,14 +1,3 @@
-1. **Compile the Program**: Pastikan untuk memberikan instruksi kepada pengguna untuk menjalankan perintah ini dari direktori proyek yang benar, di mana file `reverse.go` berada.
-
-2. **Run the Program**: Tambahkan beberapa informasi tambahan tentang apa yang harus dilakukan pengguna jika mereka ingin menggunakan opsi `-r` atau `-l`, misalnya, tentang apa yang dilakukan opsi tersebut.
-
-3. **Example**: Tambahkan output yang diharapkan setelah menjalankan perintah `gorev`, sehingga pengguna dapat melihat contoh hasil yang diharapkan.
-
-4. **License**: Pastikan untuk mengganti `[year]` dan `[fullname]` dengan tahun dan nama Anda dalam teks lisensi.
-
-Berikut adalah versi revisi dari README.md Anda:
-
-```markdown
 # GoRev - Reverse DNS Lookup Tool
 
 GoRev is a simple command-line tool written in Go for performing reverse DNS lookup on a list of IP addresses specified in a text file. It recursively resolves each IP address to its corresponding domain name and saves the results to an output file.
@@ -73,5 +62,4 @@ example.org
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
